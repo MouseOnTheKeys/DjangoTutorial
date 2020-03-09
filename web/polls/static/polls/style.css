@@ -1,6 +1,8 @@
 li a {
-    color: green;
+    color: red;
 }
 body {
     background: rgb(230, 193, 193) url("images/background.jpg") no-repeat;
+    background-position: center;
+    background-attachment: fixed; 
 }
